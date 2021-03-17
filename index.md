@@ -94,7 +94,7 @@
 
 
   <hr size="3" noshade>
-  <a href="hobbies.html">My Hobbies</a></h3> <a href="Contact information.html">Contact me</a>
+  <a href="hobbies.html">My Hobbies</a> <a href="Contact information.html">Contact me</a>
 
 </body>
 
